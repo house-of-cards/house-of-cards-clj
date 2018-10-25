@@ -1,0 +1,3 @@
+Take schema from this person class
+
+https://schema.org/Person
