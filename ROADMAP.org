@@ -1,4 +1,0 @@
-Take schema from this person class
-
-https://schema.org/Person
-https://schema.org/docs/full.html

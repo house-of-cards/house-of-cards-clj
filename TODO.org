@@ -1,1 +1,4 @@
-# Add the gitlab remote to the repo
+Take schema from this person class
+
+https://schema.org/Person
+https://schema.org/docs/full.html
