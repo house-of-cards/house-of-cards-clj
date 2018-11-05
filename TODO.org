@@ -1,6 +1,7 @@
 * Take schema from this person class
 
 https://schema.org/Person
+
 https://schema.org/docs/full.html
 
 * Other card games
@@ -16,3 +17,13 @@ https://geekmom.com/2018/08/mynd-kraft-7-programming-based-card-games-in-1/
 https://considerable.com/card-games/
 
 http://www.cardforest.com/
+
+https://www.codeproject.com/Articles/38726/Basis-of-many-card-games-How-to-make-a-deck-of-car
+
+http://www.codecards.io/
+
+* videos
+
+https://www.youtube.com/watch?v=62TmpPDs0mM
+
+
