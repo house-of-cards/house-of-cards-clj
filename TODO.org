@@ -1,4 +1,12 @@
-Take schema from this person class
+* Take schema from this person class
 
 https://schema.org/Person
 https://schema.org/docs/full.html
+
+* Other card games
+
+http://littlecodr.com/#littlecodr
+
+https://www.potatopirates.game/
+
+http://www.bitsandbytes.cards/
